@@ -1,0 +1,12 @@
+H:\Programming\Projects\StringRotation\StringRotation\bin\Debug\StringRotation.exe.config
+H:\Programming\Projects\StringRotation\StringRotation\obj\Debug\StringRotation.csprojResolveAssemblyReference.cache
+H:\Programming\Projects\StringRotation\StringRotation\bin\Debug\StringRotation.exe
+H:\Programming\Projects\StringRotation\StringRotation\bin\Debug\StringRotation.pdb
+H:\Programming\Projects\StringRotation\StringRotation\obj\Debug\StringRotation.exe
+H:\Programming\Projects\StringRotation\StringRotation\obj\Debug\StringRotation.pdb
+H:\Programming\Projects\StringRotation\StringRotations_Challenge\StringRotation\bin\Debug\StringRotation.exe.config
+H:\Programming\Projects\StringRotation\StringRotations_Challenge\StringRotation\obj\Debug\StringRotation.exe
+H:\Programming\Projects\StringRotation\StringRotations_Challenge\StringRotation\obj\Debug\StringRotation.pdb
+H:\Programming\Projects\StringRotation\StringRotations_Challenge\StringRotation\bin\Debug\StringRotation.exe
+H:\Programming\Projects\StringRotation\StringRotations_Challenge\StringRotation\bin\Debug\StringRotation.pdb
+H:\Programming\Projects\StringRotation\StringRotations_Challenge\StringRotation\obj\Debug\StringRotation.csprojResolveAssemblyReference.cache
